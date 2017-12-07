@@ -4,7 +4,7 @@
 
 {{#shapes}}
 
-    // Ripete una sola volta nel loop, il valore del percorso dello sprite
+   
     {{#first}}
         .icon {
          background-image: url ('/assets/images/sprites/{{{sprite}}}');
